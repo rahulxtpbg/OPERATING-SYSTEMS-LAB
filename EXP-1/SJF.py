@@ -20,5 +20,4 @@ def WaitingTime(process, n, burst):
 process = [1, 2, 3]
 n = 3
 burst = [10, 5, 8]
-burstDuplicate = [10, 5, 8]
 WaitingTime(process, n, burst)
